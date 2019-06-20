@@ -1,3 +1,5 @@
 primera modificacio
 
+segona modificacio desde la branca master
+
 modificant el texte desde la branca
